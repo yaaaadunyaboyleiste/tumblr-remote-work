@@ -6,7 +6,7 @@
   'use strict';
 
   const CONFIG = {
-    redirectUrl: 'https://LINK-BURAYA',
+    redirectUrl: 'https://sondakika.com',
     pageTitle: 'Holiganbet | Bağlantıya Yönlendirme',
     heading: 'Holiganbet Bağlantısına Yönlendiriliyorsunuz',
     fastRedirect: true
